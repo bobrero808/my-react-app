@@ -1,0 +1,122 @@
+.hero2-container {
+	text-align: center;
+	padding: 77px;
+}
+
+.paragraph-wrapper {
+	text-align: center;
+	padding-top: 77px;
+}
+
+.paragraph-wrapper p {
+	font-size: 61px;
+	padding-top: 68px;
+	padding-right: 31px;
+	padding-bottom: 34px;
+	padding-left: 31px;
+	margin: 0px 0px;
+	font-weight: 350;
+	letter-spacing: 1px;
+	line-height: 1.2;
+}
+
+.content {
+	padding: 36px;
+}
+
+.content img {
+	width: 100%;
+}
+
+.content a {
+	display: inline-block;
+	color: #fff;
+	text-decoration: none;
+}
+
+.grow { 
+transition: all .2s ease-in-out; 
+}
+
+.grow:hover { 
+transform: scale(1.1); 
+}
+
+.pic1 {
+	display: inline-block;
+}
+
+.pic1 span {
+	font-size: 25px;
+	font-weight: 100;
+}
+
+.pic1 div {
+	padding-top: 15px;
+}
+
+.pic2 {
+	display: inline-block;
+}
+
+.pic2 span {
+	font-size: 25px;
+	font-weight: 100;
+}
+
+.pic2 div {
+	padding-top: 15px;
+}
+
+.pic3 {
+	display: inline-block;
+}
+
+.pic3 span {
+	font-size: 25px;
+	font-weight: 100;
+}
+
+.pic3 div {
+	padding-top: 15px;
+}
+
+.pic4 {
+	display: inline-block;
+}
+
+.pic4 span {
+	font-size: 25px;
+	font-weight: 100;
+}
+
+.pic4 div {
+	padding-top: 15px;
+}
+
+@media screen and (min-width: 768px) {
+	.pic1 {
+		width: 575px;
+		padding-right: 25px;
+		padding-bottom: 30px;
+	}
+
+	.pic2 {
+		width: 575px;
+		padding-left: 25px;
+		padding-bottom: 30px;
+	}
+
+	.pic3 {
+		width: 575px;
+		padding-right: 25px;
+		padding-top: 30px;
+	}
+
+	.pic4 {
+		width: 575px;
+		padding-left: 25px;
+		padding-top: 30px;
+	}
+}
+

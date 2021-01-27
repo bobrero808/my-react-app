@@ -1,0 +1,78 @@
+.pic-container {
+	padding-top: 130px;
+	padding-bottom: 15px;
+	padding-right: 38px;
+	padding-left: 38px;
+}
+
+.pic-container img {
+	width: 100%;
+}
+
+.company-content {
+	padding: 21px 38px;
+}
+
+.company-content p {
+	width: 100%;
+	font-size: 32px;
+	font-weight: 100;
+	letter-spacing: 1px;
+	line-height: 1.4;
+}
+
+.pic-container2 {
+	padding-bottom: 15px;
+	padding-right: 38px;
+	padding-left: 38px;
+}
+
+.pic-container2 img {
+	width: 100%;
+}
+
+.grid-title {
+	padding: 25px 38px;
+}
+
+.grid-title h2 {
+	font-size: 40px;
+	font-weight: 400;
+	letter-spacing: 2px;
+	line-height: 2;
+}
+
+.grid {
+	padding: 30px;
+	text-align: left;
+}
+
+.grid span {
+	font-size: 23px;
+	font-weight: 100;
+	letter-spacing: 1px;
+	line-height: 35px;
+	padding: 20px 10px;
+}
+
+.grid p {
+	font-size: 23px;
+	font-weight: 100;
+	letter-spacing: 1px;
+	line-height: 35px;
+	padding-right: 10px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+}
+
+.spacer {
+	padding: 38px 30px;
+}
+
+@media screen and (min-width: 768px) {
+	.company-content p {
+		width: 607px;
+
+	}
+}
+
